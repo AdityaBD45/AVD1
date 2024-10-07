@@ -1,4 +1,6 @@
 int main(){
   div();
-mul();
+  mul();
+  fact();
+  fib();
 }
